@@ -65,6 +65,7 @@ import torch.nn as nn
 from torchviz import make_dot
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
+print ('device: ', device)
 
 # Our data was in Numpy arrays, but we need to transform them into PyTorch's Tensors
 # and then we send them to the chosen device
