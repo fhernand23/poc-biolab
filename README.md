@@ -14,20 +14,13 @@ pip install streamlit-authenticator
 ## streamlit
 ```
 cd streamlit
-streamlit run app.py
+streamlit run home.py
 ```
 
 ## streamlit password generator (https://api-ninjas.com/api/randomword)
 
 ```
 cd slitpassgen
-streamlit run app.py
-```
-
-## streamlit kiwi1
-
-```
-cd slitkiwi1
 streamlit run app.py
 ```
 
