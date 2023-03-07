@@ -1,5 +1,5 @@
 f:
 	git add .
-	git commit -am"changes"
+	git commit -am"some changes"
 	git push
 

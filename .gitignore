@@ -2,3 +2,5 @@
 /datasets/
 venv
 slitauth/config.yaml
+docker_neo4j/data
+docker_neo4j/logs
